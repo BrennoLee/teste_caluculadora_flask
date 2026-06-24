@@ -1,0 +1,1 @@
+#Iniciando minhas primeiras rotas para desenvolver uma calculadora web usando o flask, até o momento só foram criado as rotas, o form e o test do retrun para saber se realmente os dados estão sendo enviados da forma correta, próximo passo é a conversão dos dados para tipo int e a lógica do calculo
